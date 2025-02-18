@@ -1,4 +1,11 @@
-.odd numbers {
+.odd {
     background-color: pink;
     font-family: verdana, "DejaVu Sans", sans-serif;
+}
+#number2 {
+    color: blue;
+    font-size: 36px;
+}
+.third {
+    
 }
